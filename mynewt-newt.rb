@@ -6,7 +6,7 @@ class MynewtNewt < Formula
   homepage "https://mynewt.apache.org"
   url "https://github.com/apache/mynewt-newt/archive/mynewt_1_9_0_tag.tar.gz"
   version "1.9.0"
-  sha256 "9914e614c3d7fcf64ce03fff7918f29711a7c48e35f6057ea0761e27b841339c"
+  sha256 "c827986e27167e308f95ce226b04f801dc8f2d862bf7437358e715c0be8f1080"
 
   head "https://github.com/apache/mynewt-newt.git"
 
